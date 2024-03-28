@@ -1,7 +1,10 @@
 [![Nikolay B Kalyuzhnyy GitHub Banner](./assets/banner-github.png)](https://linktr.ee/ks_g)
+<h1 align="center">Hi there, I'm <a href="https://kalyuzhnyy.ru/" target="_blank">Nikolay B Kalyuzhnyy</a> 
+<img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
+<h3 align="center">Senior DevOps\SystemEngeener-Administrator | Kalyuzhnyy company - AI integration company from Russia</h3>
 [![Telegram](https://img.shields.io/badge/Telegram-%40knowyourbackend-blue?style=plastic&logo=telegram)](https://t.me/NikolayBars)
 [![Instagram](https://img.shields.io/badge/Instagram-%40kirill_s_gavr-D301C5?style=plastic&logo=instagram)](https://www.instagram.com/NikolayKalyuzhnyy/)
-[![WWW](https://kalyuzhnyy.ru)
+[![Web](https://kalyuzhnyy.ru)
 [![Wiki](https://wiki.kalyuzhnyy.ru)
 
 
