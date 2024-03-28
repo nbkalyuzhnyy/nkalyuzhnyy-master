@@ -46,6 +46,4 @@ Feel free to check out my repositories and give them a ⭐ if you find them inte
 ![](https://img.shields.io/badge/Code-Linux-informational?style=flat&logo=Linux&logoColor=white&color=4AB197)
 
 ## Statistic
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=vseriousv&theme=cobalt&show_icons=true)
-
-<img align="left" src="https://komarev.com/ghpvc/?username=vseriousv&label=Profile%20Views%20&color=AC1F21&style=flat-square" alt="vseriousv" />
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=nbkalyuzhnyy&theme=cobalt&show_icons=true)
